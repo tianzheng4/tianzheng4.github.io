@@ -129,7 +129,7 @@ a { text-decoration: none; }
 
 li { list-style: none; }
 
-img, ion-icon, a, button, time, span { display: block; }
+img, ion-icon, a, button, time, span { display: block; color: white}
 
 button {
   font: inherit;
@@ -1858,6 +1858,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    color: var(--black-2);
   }
 
   .contact-info :is(.contact-link, time, address) {
