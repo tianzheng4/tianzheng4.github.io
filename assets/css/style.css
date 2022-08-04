@@ -1331,6 +1331,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .sidebar {
     max-height: 180px;
     margin-bottom: 30px;
+    width: 60px;
   }
 
   .sidebar.active { max-height: 584px; }
