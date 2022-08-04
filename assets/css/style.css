@@ -224,7 +224,7 @@ article.active {
 .h3,
 .h4,
 .h5 {
-  color: var(--white-2);
+  color: var(--black-2);
   text-transform: capitalize;
 }
 
@@ -315,7 +315,7 @@ main {
 \*-----------------------------------*/
 
 .sidebar {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   max-height: 112px;
   overflow: hidden;
   transition: var(--transition-2);
@@ -337,7 +337,7 @@ main {
 }
 
 .info-content .name {
-  color: var(--white-2);
+  color: var(--black-2);
   font-size: var(--fs-3);
   font-weight: var(--fw-500);
   letter-spacing: -0.25px;
@@ -345,7 +345,7 @@ main {
 }
 
 .info-content .title {
-  color: var(--white-1);
+  color: var(--black-1);
   background: var(--onyx);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
@@ -360,7 +360,7 @@ main {
   right: -15px;
   border-radius: 0 15px;
   font-size: 13px;
-  color: var(--orange-yellow-crayola);
+  color: var(--black-2);
   background: var(--border-gradient-onyx);
   padding: 10px;
   box-shadow: var(--shadow-2);
@@ -373,7 +373,7 @@ main {
   position: absolute;
   inset: 1px;
   border-radius: inherit;
-  background: var(--bg-gradient-jet);
+  background: var(--white-1);
   transition: var(--transition-1);
   z-index: -1;
 }
@@ -416,7 +416,7 @@ main {
 }
 
 .contact-title {
-  color: var(--light-gray-70);
+  color: var(--black-2);
   font-size: var(--fs-8);
   text-transform: uppercase;
   margin-bottom: 2px;
@@ -498,7 +498,7 @@ main {
 .about .article-title { margin-bottom: 15px; }
 
 .about-text {
-  color: var(--light-gray);
+  color: var(--black-2);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
@@ -549,7 +549,7 @@ main {
 .service-item-title { margin-bottom: 7px; }
 
 .service-item-text {
-  color: var(--light-gray);
+  color: var(--black-2);
   font-size: var(--fs-6);
   font-weight: var(--fw-3);
   line-height: 1.6;
