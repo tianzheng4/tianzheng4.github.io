@@ -1387,10 +1387,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .about .article-title { margin-bottom: 20px; }
 
-  .about-text { margin-bottom: 40px; }
+  .about-text { margin-bottom: 40px; color: var(--black-2)}
 
   /* service */
-
+  .research {color: var(--black-2)}
+  
   .service-item {
     display: flex;
     justify-content: flex-start;
