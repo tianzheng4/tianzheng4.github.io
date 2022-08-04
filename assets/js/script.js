@@ -134,7 +134,10 @@ for (let i = 0; i < formInputs.length; i++) {
   });
 }
 
-
+function ResumeClick()
+{
+    window.open("./assets/cv_tianhang.pdf","_blank");
+}
 
 // // page navigation variables
 // const navigationLinks = document.querySelectorAll("[data-nav-link]");
