@@ -1391,7 +1391,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   /* service */
   .research {color: var(--black-2)}
-  
+
   .service-item {
     display: flex;
     justify-content: flex-start;
@@ -1862,6 +1862,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .contact-info :is(.contact-link, time, address) {
     --fs-7: 14px;
+    color: var(--black-2);
     font-weight: var(--fw-300);
   }
 
