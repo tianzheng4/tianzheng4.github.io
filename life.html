@@ -17,56 +17,21 @@
   -->
   <!-- <link rel="stylesheet" href="./assets/css/style.css"> -->
   <style>
-    /* main {
-      margin: 0;
-      padding: 5px;
-      background-color: lightgray;
+    .wrapper{
+    width: 1000px;
+    height: 500px;
+      }
+    #slider4{
+        white-space: nowrap;
     }
-    
-    main > h1, p, .main-content {
-      margin: 10px;
-      padding: 5px;
+    .slide-img{
+        background: #ccc;
+        height: 200px;
+        display: inline-block;
+        width: 100px;
     }
-    
-    .main-content {
-      background: white;
-    }
-    
-    .main-content > h2, p {
-      margin: 4px;
-      font-size: 90%;
-    } */
-
-    main {
-      max-width: 1200px;
-      margin-inline: auto;
-      display: flex;
-      justify-content: center;
-      align-items: stretch;
-      gap: 25px;
-      border-radius: 12px 12px 0 0;
-      border: 1px solid var(--jet);
-      box-shadow: var(--shadow-2);
-    }
-
-    .main-content {
-      min-width: 75%;
-      width: 75%;
-      margin: 0;
-    }
-
-    img {
-      margin: 10px 10px 10px 10px;
-      width: 97px;
-      height: 50px;
-      flex: 0 0;
-    }
-
-    li {
-      font-size: 20px
-    }
-    </style>
-
+  </style>
+  
   <!--
     - google font link
   -->
@@ -75,24 +40,18 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 </head>
 
-<body style="background-color:white;">
+<body style="background-color:lightskyblue;">
 
-  <main>
-    <figure>
-      <img src="./assets/junxun.jpg" style="width:100%">
-      <!-- <figcaption></figcaption> -->
-    </figure>
-    <figure>
-      <img src="./assets/graduation.jpg" style="width:100%">
-      <!-- <figcaption></figcaption> -->
-    </figure>
-    <figure>
-      <img src="./assets/play.jpg" style="width:100%">
-      <!-- <figcaption></figcaption> -->
-    </figure>
-  </main>
-
-
+  <div class="wrapper">   
+    <div id="slider4" class="text-center">
+        <div class="slide-img">
+          <img src="./assets/images/profile-image-2.jpeg">
+        </div>
+        <div class="slide-img">
+          <img src="./assets/images/play.jpg">
+        </div>
+    </div>
+  </div>
   <!--
     - ionicon link
   -->
