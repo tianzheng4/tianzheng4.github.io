@@ -65,7 +65,28 @@
     li {
       font-size: 20px
     }
-    </style>
+
+    .button {
+      background-color: lightgoldenrodyellow;
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: block;
+      width: 10%;
+      font-size: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      cursor: pointer;
+    }
+
+    .separator {
+      width: 100%;
+      height: 1px;
+      margin: 16px 0;
+    }
+  </style>
 
   <!--
     - google font link
@@ -151,6 +172,9 @@
   
           </ul>
         </section>
+
+        <div class="separator"></div>
+        <input type="button" class="button" value="Go back to Previous Page!" onclick="history.back()">
 
       </article>
     </div>
