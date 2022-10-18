@@ -42,6 +42,14 @@
     height: 1px;
     margin: 16px 0;
   }
+
+  .body {
+    background-image: url(assets/images/uoft-background-2.jpg);
+    height: 300px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
   </style>
   
   <!--
@@ -52,7 +60,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 </head>
 
-<body style="background-color:lightskyblue;">
+<body>
 
 
   <div class="w3-content w3-display-container">
@@ -87,8 +95,8 @@
     }
   </script>
 
-  <div class="separator"></div>
-  <input type="button" class="button" value="Return" onclick="history.back()">
+  <!-- <div class="separator"></div>
+  <input type="button" class="button" value="Return" onclick="history.back()"> -->
 
   <!--
     - ionicon link
