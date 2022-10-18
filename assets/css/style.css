@@ -156,8 +156,8 @@ input, textarea {
 html { font-family: var(--ff-poppins); }
 
 body {
-  background-image: url("assets/images/uoft-background.jpg");
-  opacity: 0.4;
+  background-image: url(assets/images/uoft-background.jpg);
+  opacity: 0.6;
 }
 
 
