@@ -201,7 +201,7 @@ article {
   content: "";
   position: absolute;
   inset: 1px;
-  background: var(--eerie-black-1);
+  background: var(--white-1);
   border-radius: inherit;
   z-index: -1;
 }
