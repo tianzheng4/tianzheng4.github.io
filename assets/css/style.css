@@ -155,7 +155,11 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background: var(--smoky-black); }
+body {
+  background-image: url("assets/images/uoft-background.jpg");
+  background-color: rgba(255, 255, 255, 0.486);
+  background-blend-mode: overlay;
+}
 
 
 
