@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "SecMLSys"
+title: "SMS Group (Security of Machine Learning System)"
 permalink: /lab/
 author_profile: true
 ---
 
 ---
-Our lab mainly aims to explore and address the vulnerabilities of machine learning algorithms and systems. 
+Our group mainly aims to explore and address the vulnerabilities of machine learning algorithms and systems. 
 We are also interested in privacy protection of machine learning algorithms and systems.
 
 
