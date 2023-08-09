@@ -12,6 +12,7 @@ title_separator          : "-"
 name                     : &name "Tianhang Zheng"
 description              : &description "personal description"
 url                      : https://tianzheng4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   : " /images/" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -178,6 +179,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  umkc-teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -213,6 +217,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _umkc-teaching
+  - scope:
+      path: ""
+      type: umkc-teaching
     values:
       layout: single
       author_profile: true

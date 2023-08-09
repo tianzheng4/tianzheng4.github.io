@@ -54,7 +54,11 @@
 <lastmod>2014-03-01T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/teaching/2023-fall-teaching-1</loc>
+<loc>http://localhost:4000/umkc-teaching/2023-fall-teaching-1</loc>
+<lastmod>2023-09-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/umkc-teaching/2023-fall-teaching-1/</loc>
 <lastmod>2023-09-01T00:00:00-07:00</lastmod>
 </url>
 <url>
@@ -113,6 +117,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/markdown_generator/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pubs/MLSys23.pdf</loc>
+<lastmod>2023-07-15T22:46:28-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/AAAI19.pdf</loc>
