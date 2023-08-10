@@ -17,7 +17,13 @@ Contact: [th.zheng@mail.utoronto.ca](mailto:th.zheng@mail.utoronto.ca) (Replaced
 
 [Course Syllabus](/umkc-teaching/Fall_23_Comp-Sci_5565_Tianhang.pdf)
 
-[Zoom Link](https://utoronto.zoom.us/j/83894678783) (Passcode: 308730)
+---
+## Textbooks:
+
+[An Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf)
+[Machine Learning with Python Tutorial](https://python-course.eu/books/bernd_klein_python_and_machine_learning_a4.pdf)
+
+
 
 ---
 ## Lectures:
