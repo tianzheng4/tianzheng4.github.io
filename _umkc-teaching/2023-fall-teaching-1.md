@@ -35,8 +35,8 @@ Contact: [th.zheng@mail.utoronto.ca](mailto:th.zheng@mail.utoronto.ca) (Replaced
 
 ## Labs:
 
-|     Time     |      Lecture       |   Slides |  
-|:------------:|:------------------:|:-------------------------------------------------------:|
-|    Week 1    |    Introduction    | [pdf](/umkc-teaching/Fall_23_Comp-Sci_5565_Tianhang.pdf "download")|
+|     Time     |      Lecture                 |   Slides |  
+|:------------:|:----------------------------:|:-------------------------------------------------------:|
+|    Week 1    |    Introduction to Python    | [pdf](/umkc-teaching/Fall_23_Comp-Sci_5565_Tianhang.pdf "download")|
 
 
