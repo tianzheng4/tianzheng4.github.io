@@ -29,6 +29,6 @@ Contact: [th.zheng@mail.utoronto.ca](mailto:th.zheng@mail.utoronto.ca) (Replaced
 
 |     Time     |      Lecture       |   Slides |  
 |:------------:|:------------------:|:-------------------------------------------------------:|
-|    Week 1    |    Introduction    | [pdf](/umkc-teaching/Fall_23_Comp-Sci_5565_Tianhang.pdf)|
+|    Week 1    |    Introduction    | [pdf](/umkc-teaching/Fall_23_Comp-Sci_5565_Tianhang.pdf "download")|
 
 
