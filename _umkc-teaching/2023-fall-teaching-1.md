@@ -17,6 +17,8 @@ Contact: [th.zheng@mail.utoronto.ca](mailto:th.zheng@mail.utoronto.ca) (Replaced
 
 [Course Syllabus](/umkc-teaching/Fall_23_Comp-Sci_5565_Tianhang.pdf)
 
+[Zoom Link](https://utoronto.zoom.us/j/83894678783) (Passcode: 308730)
+
 ---
 ## Lectures:
 
