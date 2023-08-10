@@ -21,6 +21,7 @@ Contact: [th.zheng@mail.utoronto.ca](mailto:th.zheng@mail.utoronto.ca) (Replaced
 ## Textbooks:
 
 [An Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf)
+
 [Machine Learning with Python Tutorial](https://python-course.eu/books/bernd_klein_python_and_machine_learning_a4.pdf)
 
 
