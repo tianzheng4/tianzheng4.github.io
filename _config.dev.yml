@@ -1,6 +1,7 @@
 # Develop override settings
 
-url: http://localhost:4000
+# url: http://localhost:4000
+url: https://tianzheng4.github.io
 
 analytics:
   provider: false
