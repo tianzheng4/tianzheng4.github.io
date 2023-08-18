@@ -17,7 +17,11 @@ Contact: [th.zheng@mail.utoronto.ca](mailto:th.zheng@mail.utoronto.ca) (Replaced
 
 [Course Syllabus](/umkc-teaching/Fall_23_Comp-Sci_5565_Tianhang.pdf)
 
-Location: 
+Location: Bloch Heritage Hall Room 6
+
+Time: Tuesdays and Thursdays 10:00-11:15 AM
+
+Office Hours: Mondays 10:00-11:00 AM
 
 ---
 ## Textbooks:
