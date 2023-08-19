@@ -13,6 +13,6 @@ We are also interested in privacy protection of machine learning algorithms and 
 **Lab Members**
 <!-- ====== -->
 
-[Rakib Ul Haque](https://scholar.google.com/citations?user=Le-WWW0AAAAJ&hl=en) received his M.S. degree from University of Chinese Academy of Sciences. He will join SecMLSys as a Ph.D. student. in Spring 2024. He has published several papers on the topic of security and privacy.
+<!-- [Rakib Ul Haque](https://scholar.google.com/citations?user=Le-WWW0AAAAJ&hl=en) received his M.S. degree from University of Chinese Academy of Sciences. He will join SecMLSys as a Ph.D. student. in Spring 2024. He has published several papers on the topic of security and privacy. -->
 
 
