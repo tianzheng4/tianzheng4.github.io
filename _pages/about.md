@@ -31,7 +31,11 @@ Zhongjie Ba, Tianhang Zheng (co-first author), Xinyu Zhang, Zhan Qin, Baochun Li
 
 **Poisoning Attacks and Defenses**
 
+Tianhang Zheng, Baochun Li. "[RDM-DC: Poisoning Resilient Dataset Condensation with Robust Distribution Matching](files/UAI23.pdf)" In Uncertainty in Artificial Intelligence, pp. 2541-2550. PMLR, 2023 (UAI 2023)
+
 Tianhang Zheng, Hao Lan, Baochun Li "[Be Careful with PyPI Packages: You May Unconsciously Spread Backdoor Model Weights](files/MLSys23.pdf)" In Proceedings of the 6th Conference on Machine Learning and Systems (MLSys 2023) (MLSys 2023)
+
+Tianhang Zheng, Baochun Li "RDM-DC: Poisoning Resilient Dataset Condensation with Robust Distribution Matching"
 
 Tianhang Zheng, Baochun Li "[Poisoning Attacks on Deep Learning based Wireless Traffic Prediction](files/INFOCOM22.pdf)" In IEEE INFOCOM 2022-IEEE Conference on Computer Communication (INFOCOM 2022)
 
