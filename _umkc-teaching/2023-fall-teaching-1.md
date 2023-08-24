@@ -44,6 +44,6 @@ Office Hours: Mondays 10:00-11:00 AM
 
 |     Time     |      Lecture                 |   Slides |  
 |:------------:|:----------------------------:|:-------------------------------------------------------:|
-|    Week 1 Thursday   |    Introduction to Python    | <a href="/umkc-teaching/code/Intro_to_Python.ipynb" download>ipynb</a>|
+|    Week 1 Thursday   |    Introduction to Python    | <a href="/umkc-teaching/code/Intro_to_Python.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Auto.csv" download>Auto.csv</a>|
 
 
