@@ -13,7 +13,7 @@ table {
 }
 </style>
 
-Contact: [th.zheng@mail.utoronto.ca](mailto:th.zheng@mail.utoronto.ca) (Replaced by UMKC email address later)
+Contact: [tzheng@umkc.edu](mailto:tzheng@umkc.edu) (Replaced by UMKC email address later)
 
 [Course Syllabus](/umkc-teaching/Fall_23_Comp-Sci_5565_Tianhang.pdf)
 
@@ -21,7 +21,7 @@ Location: Bloch Heritage Hall Room 6
 
 Time: Tuesdays and Thursdays 10:00-11:15 AM
 
-Office Hours: Mondays 10:00-11:00 AM
+Office Hours: Mondays 10:00-11:00 AM （Flarsheim Hall 410A)
 
 ---
 ## Textbooks:
