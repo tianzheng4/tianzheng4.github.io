@@ -13,7 +13,7 @@ table {
 }
 </style>
 
-Contact: [tzheng@umkc.edu](mailto:tzheng@umkc.edu) (Replaced by UMKC email address later)
+Contact: [tzheng@umkc.edu](mailto:tzheng@umkc.edu)
 
 [Course Syllabus](/umkc-teaching/Fall_23_Comp-Sci_5565_Tianhang.pdf)
 
@@ -42,6 +42,8 @@ Office Hours: Mondays 10:00-11:00 AM （Flarsheim Hall 410A)
 |    Week 1 Thursday   |    Introduction to Python    | <a href="/umkc-teaching/code/Intro_to_Python.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Auto.csv" download>Auto.csv</a>|
 |    Week 2 Tuesday    |    Statistical Learning   | [pdf](/umkc-teaching/slides/Lecture2.pdf)|
 |    Week 2 Thursday    |    Linear Regression  | [pdf](/umkc-teaching/slides/Lecture3.pdf)|
+|    Week 3 Tuesday    |    Linear Regression  | [pdf](/umkc-teaching/slides/Lecture4.pdf)|
+|    Week 3 Tuesday    |    Linear Regression  | <a href="/umkc-teaching/code/Linear_Regression.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Auto.csv" download>Advertising.csv</a> <a href="/umkc-teaching/code/data/Auto.csv" download>Credit.csv</a>|
 
 
 
