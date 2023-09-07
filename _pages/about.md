@@ -35,8 +35,6 @@ Tianhang Zheng, Baochun Li. "[RDM-DC: Poisoning Resilient Dataset Condensation w
 
 Tianhang Zheng, Hao Lan, Baochun Li "[Be Careful with PyPI Packages: You May Unconsciously Spread Backdoor Model Weights](files/MLSys23.pdf)" In Proceedings of the 6th Conference on Machine Learning and Systems (MLSys 2023) (MLSys 2023)
 
-Tianhang Zheng, Baochun Li "RDM-DC: Poisoning Resilient Dataset Condensation with Robust Distribution Matching"
-
 Tianhang Zheng, Baochun Li "[Poisoning Attacks on Deep Learning based Wireless Traffic Prediction](files/INFOCOM22.pdf)" In IEEE INFOCOM 2022-IEEE Conference on Computer Communication (INFOCOM 2022)
 
 Tianhang Zheng, Baochun Li "[First-Order Efficient General-Purpose Clean-Label Data Poisoning](files/INFOCOM21.pdf)" In IEEE INFOCOM 2021-IEEE Conference on Computer Communication (INFOCOM 2021)
