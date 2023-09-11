@@ -46,6 +46,7 @@ The slides and code only can be used for the purpose of review or preparation fo
 |    Week 2 Thursday    |    Linear Regression  | [pdf](/umkc-teaching/slides/Lecture3.pdf)|
 |    Week 3 Tuesday    |    Linear Regression  | [pdf](/umkc-teaching/slides/Lecture4.pdf)|
 |    Week 3 Thursday    |    Linear Regression  | <a href="/umkc-teaching/code/Linear_Regression.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Advertising.csv" download>Advertising.csv</a> <a href="/umkc-teaching/code/data/Credit.csv" download>Credit.csv</a>|
+|    Week 4 Tuesday    |   Classification  | [pdf](/umkc-teaching/slides/Lecture5.pdf)|
 
 
 
