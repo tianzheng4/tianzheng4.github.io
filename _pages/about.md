@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an assistant professor at University of Missouri (Kansas City Campus).
 I received my Ph.D. degree from University of Toronto, M.S. degree from University at Buffalo, and B.Eng. degree from Peking University.
-My research interests lie in the interaction between machine learning, security, and privacy. In my leisure time, I enjoy watching TV shows. I also play basketball and badminton.
+My research interests lie in the interaction between machine learning, security, and privacy.
 
-I will join University of Missouri (Kansas City Campus) as an assistant professor in Fall 2023. I am actively looking for self-motivated graduate students to work with me. If you are interested in RA positions, please contact me with your resume. 
+I am actively looking for self-motivated graduate students to work with me. If you are interested in TA/RA/Intern positions, please contact me with your resume. 
 
 
 News
