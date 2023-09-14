@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Education"
-permalink: /cv/
+permalink: /
 author_profile: true
 redirect_from:
   - /resume
@@ -15,5 +15,5 @@ redirect_from:
 * M.S. in Computer Science, University at Buffalo, 2019
 * Ph.D in Electrical and Computer Engineering, University of Toronto, 2023
 
-Access to [CV](cv.pdf)
+Access to [CV](files/cv.pdf)
 
