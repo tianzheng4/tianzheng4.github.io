@@ -15,5 +15,5 @@ redirect_from:
 * M.S. in Computer Science, University at Buffalo, 2019
 * Ph.D in Electrical and Computer Engineering, University of Toronto, 2023
 
-Access to [Resume]
+Access to [CV](files/cv_tianhang.pdf)
 
