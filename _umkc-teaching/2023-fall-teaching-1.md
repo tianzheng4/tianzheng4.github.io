@@ -50,6 +50,7 @@ The slides and code only can be used for the purpose of review or preparation fo
 |    Week 4 Thursday    |   Classification  | <a href="/umkc-teaching/code/Classification.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Default.xlsx" download>Default.xlsx</a> <a href="/umkc-teaching/code/data/Smarket.csv" download>Smarket.csv</a>|
 |    Week 5 Tuesday    |   Resampling and Evaluation  | [pdf](/umkc-teaching/slides/Lecture6.pdf)|
 |    Week 5 Thursday    |   Resampling and Evaluation  | <a href="/umkc-teaching/code/Resampling_and_Evaluation.ipynb" download>ipynb</a>|
+|    Week 6 Tuesday    |   Model Selection and Regularization  | [pdf](/umkc-teaching/slides/Lecture7.pdf)|
 
 
 
