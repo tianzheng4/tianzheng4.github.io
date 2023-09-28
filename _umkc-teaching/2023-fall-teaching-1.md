@@ -51,7 +51,7 @@ The slides and code only can be used for the purpose of review or preparation fo
 |    Week 5 Tuesday    |   Resampling and Evaluation  | [pdf](/umkc-teaching/slides/Lecture6.pdf)|
 |    Week 5 Thursday    |   Resampling and Evaluation  | <a href="/umkc-teaching/code/Resampling_and_Evaluation.ipynb" download>ipynb</a>|
 |    Week 6 Tuesday    |   Model Selection and Regularization  | [pdf](/umkc-teaching/slides/Lecture7.pdf)|
-|    Week 6 Thursday    |   Model Selection and Regularization  | <a href="/umkc-teaching/code/Model_Selection_and_Regularization.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Hitters.csv" download>Hitters.csv</a>|
+|    Week 6 Thursday    |   Model Selection and Regularization  | <a href="/umkc-teaching/code/Model_Selection_and_Regularization.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Hitters.csv" download>Hitters.csv</a> <a href="/umkc-teaching/code/data/Hitters_X_train.csv" download>Hitters_X_train.csv</a> <a href="/umkc-teaching/code/data/Hitters_X_test.csv" download>Hitters_X_test.csv</a> <a href="/umkc-teaching/code/data/Hitters_y_train.csv" download>Hitters_y_train.csv</a> <a href="/umkc-teaching/code/data/Hitters_y_test.csv" download>Hitters_y_test.csv</a>|
 
 
 
