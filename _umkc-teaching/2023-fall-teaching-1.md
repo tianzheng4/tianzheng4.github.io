@@ -53,6 +53,7 @@ The slides and code only can be used for the purpose of review or preparation fo
 |    Week 6 Tuesday    |   Model Selection and Regularization  | [pdf](/umkc-teaching/slides/Lecture7.pdf)|
 |    Week 6 Thursday    |   Model Selection and Regularization  | <a href="/umkc-teaching/code/Model_Selection_and_Regularization.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Hitters.csv" download>Hitters.csv</a> <a href="/umkc-teaching/code/data/Hitters_X_train.csv" download>Hitters_X_train.csv</a> <a href="/umkc-teaching/code/data/Hitters_X_test.csv" download>Hitters_X_test.csv</a> <a href="/umkc-teaching/code/data/Hitters_y_train.csv" download>Hitters_y_train.csv</a> <a href="/umkc-teaching/code/data/Hitters_y_test.csv" download>Hitters_y_test.csv</a>|
 |    Week 7 Tuesday    |   Moving Beyond Linearity  | [pdf](/umkc-teaching/slides/Lecture8.pdf)|
+|    Week 7 Thursday   |   Moving Beyond Linearity  | <a href="/umkc-teaching/code/Moving_Beyond_Linearity.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Wage.csv" download>Wage.csv</a>|
 
 
 
