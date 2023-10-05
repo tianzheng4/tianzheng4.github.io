@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-<img align="left" src="../images/umkc.png" alt="UMKC"  width="50"/>
+<img align="left" src="../images/umkc.png" alt="UMKC"  width="80"/> &nbsp;&nbsp;
 Our group mainly aims to explore and address the vulnerabilities of machine learning algorithms and systems. We are also interested in privacy protection of machine learning and AI4Science.
 
 
