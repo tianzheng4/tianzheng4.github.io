@@ -34,7 +34,8 @@ MS Students:
 
 Undergraduate Students:
 
-
+| <img align="left" src="../images/Deming.jpg" alt="Deming"  width="100"/> | | Deming Lei: an undergraduate student in the School of Computing and Engineering, University of Missouri – Kansas City. Research interests: Artificial Intelligence Security and Privacy Protection and Computer Vision.
+|
 
 
 
