@@ -14,7 +14,7 @@ td, th {
 </style>
 
 
-| <img align="left" src="../images/umkc.png" alt="UMKC"  width="200"/> | | Our group mainly aims to explore and address the vulnerabilities of machine learning algorithms and systems. We are also interested in privacy protection of machine learning and AI4Science.
+| <img align="left" src="../images/umkc.png" alt="UMKC"  width="200"/> | | Our group mainly aims to explore and address the vulnerabilities of machine learning algorithms and systems. We are also interested in AI privacy and AI4Science. Besides, we are very happy to help people from different groups understand the AI techniques, such as large language models.
 |
 
 
