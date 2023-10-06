@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "ASPFS Group (AI, Security, Privacy, Fairness, and Science)"
+title: "ASPFS Group (AI for Security, Privacy, Fairness, and Science)"
 permalink: /lab/
 author_profile: true
 ---
@@ -31,6 +31,9 @@ Several PhD students starting from Fall 2024
 
 
 **Master Students**:
+
+| <img src="../images/pengrui.jpg" alt="Pengrui"  width="200"/> | | Pengrui Zhu: I am graduate student in computer science at University of Missouri-Kansas City.  My academic pursuits and research interests revolve around the fields Machine learning, DevOps, Full-stack Dev and Cloud Dev.
+|
 
 | <img src="../images/pengrui.jpg" alt="Pengrui"  width="200"/> | | Pengrui Zhu: I am graduate student in computer science at University of Missouri-Kansas City.  My academic pursuits and research interests revolve around the fields Machine learning, DevOps, Full-stack Dev and Cloud Dev.
 |
