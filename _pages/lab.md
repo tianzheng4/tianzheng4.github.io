@@ -42,6 +42,9 @@ Several PhD students starting from Fall 2024
 | <img align="left" src="../images/Alyssa.jpg" alt="Alyssa"  width="200"/> | | Alyssa Barbee: I am an undergraduate student in Computer Science at the University of Missouri - Kansas City. My research interests are in Machine Learning and Privacy Protection.
 |
 
+| <img align="left" src="../images/Cat.jpg" alt="Cat"  width="200"/> | | Cat Lewin: I am an undergraduate student pursuing a Bachelor of Science in Computer Science at the University of Missouri – Kansas City. I am interested in researching Large Language Models and privacy protection.
+|
+
 | <img align="left" src="../images/Deming.jpg" alt="Deming"  width="200"/> | | Deming Lei: I am an undergraduate student in the School of Computing and Engineering, University of Missouri – Kansas City. Research interests: Artificial Intelligence Security and Privacy Protection and Computer Vision.
 |
 
