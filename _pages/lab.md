@@ -10,11 +10,12 @@ author_profile: true
 <style>
 td, th {
    border: none!important;
+   font-size: 15px
 }
 </style>
 
 
-| <img align="left" src="../images/umkc.png" alt="UMKC"  width="200"/> | | Our group aims to explore and address the problems at the intersection of AI, Security, Privacy, Fairness, and Science. **Also, we are very happy to help people from different groups understand the AI techniques, such as large language models.**
+| <img align="left" src="../images/umkc.png" alt="UMKC"  width="200"/> | | Our group aims to explore and address the problems at the intersection of AI, Security, Privacy, Fairness, and Science. **Also, we are very happy to help people from different groups understand cutting-age AI techniques, such as large language models.**
 |
 
 
