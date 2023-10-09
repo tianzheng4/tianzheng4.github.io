@@ -11,7 +11,7 @@ I am an assistant professor at University of Missouri (Kansas City Campus).
 I received my Ph.D. degree from University of Toronto, M.S. degree from University at Buffalo, and B.Eng. degree from Peking University.
 My research interests lie in the interaction between machine learning, security, and privacy. **Given my interdisciplinary education background, I am also interested in AI4Science**
 
-I am actively looking for self-motivated students to work with me. 
+I am actively looking for self-motivated students to work with me. Our group welcomes K-12 students and undergraduate students from underrepresented groups, and we collect some materials about cutting-edge AI techniques to help you understand AI. You can find the materials at ["cutting-edge AI techniques"](https://tianzheng4.github.io/umkc-teaching/interesting-AI-material/)
 
 News
 ======
