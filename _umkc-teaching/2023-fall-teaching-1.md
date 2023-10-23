@@ -56,7 +56,7 @@ The slides and code only can be used for the purpose of review or preparation fo
 |    Week 7 Thursday   |   Moving Beyond Linearity  | <a href="/umkc-teaching/code/Moving_Beyond_Linearity.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Wage.csv" download>Wage.csv</a>|
 |    Week 8 Tuesday    |   Tree-based Methods | [pdf](/umkc-teaching/slides/Lecture9.pdf)|
 |    Week 8 Thursday   |   Tree-based Methods  | <a href="/umkc-teaching/code/Tree_based_Methods.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Boston.csv" download>Boston.csv</a> <a href="/umkc-teaching/code/data/Heart.csv" download>Heart.csv</a>|
-|    Week 10 Tuesday    |   Tree-based Methods | [pdf](/umkc-teaching/slides/Lecture10.pdf)|
+|    Week 10 Tuesday    |   Support Vector | [pdf](/umkc-teaching/slides/Lecture10.pdf)|
 
 
 
