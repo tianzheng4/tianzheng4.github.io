@@ -15,6 +15,8 @@ I am actively looking for self-motivated students to work with me. Our group wel
 
 News
 ======
+I was fortunate to be selected as a [Scialog Fellow](https://rescorp.org/scialog/aut-fellows-and-facilitators)! I am really grateful for the opportunity to work with some outstanding researchers on the topic of AI for Material Discovery!
+
 Our paper (first-authored) "RDM-DC: Poisoning Resilient Dataset Condensation with Robust Distribution Matching" was accepted to UAI 2023
 
 
