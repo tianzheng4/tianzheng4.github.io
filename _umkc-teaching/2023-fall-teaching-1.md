@@ -58,6 +58,7 @@ The slides and code only can be used for the purpose of review or preparation fo
 |    Week 8 Thursday   |   Tree-based Methods  | <a href="/umkc-teaching/code/Tree_based_Methods.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Boston.csv" download>Boston.csv</a> <a href="/umkc-teaching/code/data/Heart.csv" download>Heart.csv</a>|
 |    Week 10 Tuesday    |   Support Vector | [pdf](/umkc-teaching/slides/Lecture10.pdf)|
 |    Week 10 Thursday   |   Support Vector | <a href="/umkc-teaching/code/Support_Vector_Machine.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Khan_xtest.csv" download>Khan_xtest.csv</a><a href="/umkc-teaching/code/data/Khan_xtrain.csv" download>Khan_xtrain.csv</a><a href="/umkc-teaching/code/data/Khan_ytest.csv" download>Khan_ytest.csv</a><a href="/umkc-teaching/code/data/Khan_ytrain.csv" download>Khan_ytrain.csv</a>|
+|    Week 11 Tuesday    |   Deep Learning | [pdf](/umkc-teaching/slides/Lecture11.pdf)|
 
 
 
