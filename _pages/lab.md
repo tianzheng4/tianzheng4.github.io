@@ -43,7 +43,7 @@ Several PhD students starting from Fall 2024
 
 **Undergraduate Students**:
 
-| <img src="../images/Aarohi.jpg" alt="Aarohi"  width="200"/> | | Aarohi Patel: I am an undergraduate student at the University of Missouri-Kansas City pursuing a Bachelor of Science in Computer Science. My research interests revolve around the privacy and security of Large Language Models.
+| <img src="../images/Aarohi.png" alt="Aarohi"  width="200"/> | | Aarohi Patel: I am an undergraduate student at the University of Missouri-Kansas City pursuing a Bachelor of Science in Computer Science. My research interests revolve around the privacy and security of Large Language Models.
 |
 
 | <img src="../images/Alyssa.jpg" alt="Alyssa"  width="200"/> | | Alyssa Barbee: I am an undergraduate student in Computer Science at the University of Missouri - Kansas City. My research interests are in Machine Learning and Privacy Protection.
