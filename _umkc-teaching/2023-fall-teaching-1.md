@@ -60,6 +60,7 @@ The slides and code only can be used for the purpose of review or preparation fo
 |    Week 10 Thursday   |   Support Vector | <a href="/umkc-teaching/code/Support_Vector_Machine.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/Khan_xtest.csv" download>Khan_xtest.csv</a><a href="/umkc-teaching/code/data/Khan_xtrain.csv" download>Khan_xtrain.csv</a><a href="/umkc-teaching/code/data/Khan_ytest.csv" download>Khan_ytest.csv</a><a href="/umkc-teaching/code/data/Khan_ytrain.csv" download>Khan_ytrain.csv</a>|
 |    Week 11 Tuesday    |   Deep Learning | [pdf](/umkc-teaching/slides/Lecture11.pdf)|
 |   Week 11 Thursday    |   Unsupervised Learning | [pdf](/umkc-teaching/slides/Lecture12.pdf)|
+|    Week 12 Tuesday    |   Unsupervised Learning  | <a href="/umkc-teaching/code/Unsupervised_Learning.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/USArrests.csv" download>USArrests.csv</a>|
 
 
 
