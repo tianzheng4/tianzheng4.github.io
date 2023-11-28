@@ -63,7 +63,8 @@ The slides and code only can be used for the purpose of review or preparation fo
 |    Week 12 Tuesday    |   Unsupervised Learning  | <a href="/umkc-teaching/code/Unsupervised_Learning.ipynb" download>ipynb</a> <a href="/umkc-teaching/code/data/USArrests.csv" download>USArrests.csv</a>|
 |   Week 12 Thursday    |   Hypothesis Testing | [pdf](/umkc-teaching/slides/Lecture13.pdf)|
 |   Week 13 Tuesday     |   Hypothesis Testing | <a href="/umkc-teaching/code/Hypothesis_Testing.ipynb" download>ipynb</a>|
-|   Week 13 Thursday    |   Hypothesis Testing | [pdf](/umkc-teaching/slides/Lecture14.pdf)|
+|   Week 13 Thursday    |   Survial Analysis | [pdf](/umkc-teaching/slides/Lecture14.pdf)|
+|   Week 15 Tuesday     |   Review | [pdf](/umkc-teaching/slides/Review1.pdf)|
 
 
 <!-- ## Labs:
