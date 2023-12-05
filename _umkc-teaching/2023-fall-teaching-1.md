@@ -65,6 +65,7 @@ The slides and code only can be used for the purpose of review or preparation fo
 |   Week 13 Tuesday     |   Hypothesis Testing | <a href="/umkc-teaching/code/Hypothesis_Testing.ipynb" download>ipynb</a>|
 |   Week 13 Thursday    |   Survial Analysis | [pdf](/umkc-teaching/slides/Lecture14.pdf)|
 |   Week 15 Tuesday     |   Review | [pdf](/umkc-teaching/slides/Review1.pdf)|
+|   Week 16 Thursday    |   Review | [pdf](/umkc-teaching/slides/Review2.pdf)|
 
 
 <!-- ## Labs:
