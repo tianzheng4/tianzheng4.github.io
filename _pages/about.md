@@ -15,6 +15,8 @@ I am actively looking for self-motivated students to work with me. Our group wel
 
 News
 ======
+Our paper (first-authored) "CMI: Client-Targeted Membership Inference in Federated Learning" was accepted to TDSC (Coming soon)
+
 I am grateful for receiving funding support from Division of Diversity and Inclusion (UMKC) to work on promoting fairness in machine learning.
 
 I was fortunate to be selected as a [Scialog Fellow](https://rescorp.org/scialog/aut-fellows-and-facilitators)! I am really grateful for the opportunity to work with some outstanding researchers on the topic of AI for Material Discovery!
