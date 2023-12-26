@@ -15,7 +15,7 @@ I am actively looking for self-motivated students to work with me. Our group wel
 
 News
 ======
-Our paper (first-authored) "CMI: Client-Targeted Membership Inference in Federated Learning" was accepted to TDSC (Coming soon)
+Our paper (first-authored) "CMI: Client-Targeted Membership Inference in Federated Learning" was accepted to TDSC
 
 I am grateful for receiving funding support from Division of Diversity and Inclusion (UMKC) to work on promoting fairness in machine learning.
 
@@ -30,6 +30,8 @@ Selected Publications
 ======
 
 **Privacy Meets Deep Learning**
+
+Tianhang Zheng, Baochun Li, "[CMI: Client-Targeted Membership Inference in Federated Learning](https://ieeexplore.ieee.org/document/10373150)" In IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 Tianhang Zheng, Baochun Li, "[InfoCensor: An Information-Theoretic Framework against Sensitive Attribute Inference and Demographic Disparity](files/AsiaCCS22.pdf)" In ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2022) [GitHub](https://github.com/iQua/InfoCensor)
 
