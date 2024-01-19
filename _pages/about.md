@@ -15,7 +15,9 @@ I am actively looking for self-motivated students to work with me. Our group wel
 
 News
 ======
-I am establishing two Git repositories for research and practice on [distributed machine learning](https://github.com/SecMLSys/Simulate-Distributed-AI) and [large language models](https://github.com/SecMLSys/LoraLLM-Practice). Note that they can only be used for non-profit research or practice.
+Stay Tuned: I am establishing two Git repositories for research and practice on [distributed machine learning](https://github.com/SecMLSys/Simulate-Distributed-AI) and [large language models](https://github.com/SecMLSys/LoraLLM-Practice). Note that they can only be used for non-profit research or practice.
+
+I am grateful for receiving the FFE award from UMKC to support our research on AI + Health
 
 Our paper (first-authored) "CMI: Client-Targeted Membership Inference in Federated Learning" was accepted to TDSC
 
