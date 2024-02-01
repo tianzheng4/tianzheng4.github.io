@@ -21,6 +21,8 @@ Stay Tuned: I am establishing two Git repositories for research and practice on 
 
 I am grateful for receiving the FFE award from UMKC to support our research on AI + Health
 
+I will serve as the Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology starting from 2024
+
 Our paper (first-authored) "CMI: Client-Targeted Membership Inference in Federated Learning" was accepted to TDSC
 
 I am grateful for receiving funding support from Division of Diversity and Inclusion (UMKC) to work on promoting fairness in machine learning.
