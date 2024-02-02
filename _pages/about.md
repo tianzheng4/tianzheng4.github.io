@@ -13,21 +13,21 @@ My research interests lie in the interaction between machine learning, security,
 
 I am actively looking for self-motivated students to work with me. Our group welcomes K-12 students and undergraduate students from underrepresented groups, and we collect some materials about cutting-edge AI techniques to help you understand AI. You can find the materials at ["cutting-edge AI techniques"](https://tianzheng4.github.io/umkc-teaching/interesting-AI-material/)
 
-News :newspaper:
+News
 ======
-Our paper (first-authored) "Differentially Private Dataset Condensation" was accepted to NDSS AISCC 2024 :clap:
+Our paper (first-authored) "Differentially Private Dataset Condensation" was accepted to NDSS AISCC 2024.
 
 Stay Tuned: I am establishing two Git repositories for research and practice on [distributed machine learning](https://github.com/SecMLSys/Simulate-Distributed-AI) and [large language models](https://github.com/SecMLSys/LoraLLM-Practice). Note that they can only be used for non-profit research or practice. 
 
-I am grateful for receiving the FFE award from UMKC to support our research on AI + Health :clap:
+I am grateful for receiving the FFE award from UMKC to support our research on AI + Health.
 
-I will serve as the Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology starting from 2024 	:crossed_fingers:
+I will serve as the Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology starting from 2024.
 
-Our paper (first-authored) "CMI: Client-Targeted Membership Inference in Federated Learning" was accepted to TDSC :clap:
+Our paper (first-authored) "CMI: Client-Targeted Membership Inference in Federated Learning" was accepted to TDSC.
 
-I am grateful for receiving funding support from Division of Diversity and Inclusion (UMKC) to work on promoting fairness in machine learning :clap:
+I am grateful for receiving funding support from Division of Diversity and Inclusion (UMKC) to work on promoting fairness in machine learning.
 
-I was fortunate to be selected as a [Scialog Fellow](https://rescorp.org/scialog/aut-fellows-and-facilitators)! I am really grateful for the opportunity to work with some outstanding researchers on the topic of AI for Material Discovery :clap::clap:
+I was fortunate to be selected as a [Scialog Fellow](https://rescorp.org/scialog/aut-fellows-and-facilitators)! I am really grateful for the opportunity to work with some outstanding researchers on the topic of AI for Material Discovery.
 
 Our paper (first-authored) "RDM-DC: Poisoning Resilient Dataset Condensation with Robust Distribution Matching" was accepted to UAI 2023
 
