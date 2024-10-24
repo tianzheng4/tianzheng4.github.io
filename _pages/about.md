@@ -1,23 +1,17 @@
 ---
 permalink: /
-title: "About Me"
+title: "简介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am an assistant professor at University of Missouri (Kansas City Campus).
-I received my Ph.D. degree from University of Toronto, M.S. degree from University at Buffalo, and B.Eng. degree from Peking University.
-My research interests lie in the interaction between machine learning, security, and privacy. **Given my interdisciplinary education background, I am also interested in AI4Science**
-
-I am actively looking for self-motivated students to work with me. Our group welcomes K-12 students and undergraduate students from underrepresented groups, and we collect some materials about cutting-edge AI techniques to help you understand AI. You can find the materials at ["cutting-edge AI techniques"](https://tianzheng4.github.io/umkc-teaching/interesting-AI-material/)
+浙江大学研究员/博导，曾任密苏里大学堪萨斯分校助理教授，博士毕业于加拿大多伦多大学
 
 News
 ======
 Our paper (first-authored) "Differentially Private Dataset Condensation" was accepted to NDSS AISCC 2024.
-
-Stay Tuned: I am establishing two Git repositories for research and practice on [distributed machine learning](https://github.com/SecMLSys/Simulate-Distributed-AI) and [large language models](https://github.com/SecMLSys/LoraLLM-Practice). Note that they can only be used for non-profit research or practice. 
 
 I am grateful for receiving the FFE award from UMKC to support our research on AI + Health.
 
