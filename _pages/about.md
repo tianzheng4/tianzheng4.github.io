@@ -9,6 +9,8 @@ redirect_from:
 ---
 浙江大学研究员/博导，曾任密苏里大学堪萨斯分校助理教授，博士毕业于加拿大多伦多大学
 
+I am actively looking for PhDs, Masters, and RAs with strong mathematics or computer science background. If you are interested, please contact me by sending an email to zthzheng@zju.edu.cn
+
 News
 ======
 Our paper (first-authored) "Differentially Private Dataset Condensation" was accepted to NDSS AISCC 2024.
