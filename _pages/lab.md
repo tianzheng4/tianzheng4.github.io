@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "ASPFS Group (AI for Security, Privacy, Fairness, and Science)"
+title: " "
 permalink: /lab/
 author_profile: true
 ---
@@ -15,7 +15,7 @@ td, th {
 </style>
 
 
-| <img align="left" src="../images/umkc.png" alt="UMKC"  width="200"/> | | Our group aims to explore and address the problems at the intersection of AI, Security, Privacy, Fairness, and Science. **Also, we are very happy to help people from different groups understand cutting-edge AI techniques, such as large language models.**
+<!-- | <img align="left" src="../images/umkc.png" alt="UMKC"  width="200"/> | | Our group aims to explore and address the problems at the intersection of AI, Security, Privacy, Fairness, and Science. **Also, we are very happy to help people from different groups understand cutting-edge AI techniques, such as large language models.**
 |
 
 
@@ -52,7 +52,7 @@ Several PhD students starting from Fall 2024
 | <img src="../images/Cat.jpg" alt="Cat"  width="200"/> | | Cat Lewin: I am an undergraduate student pursuing a Bachelor of Science in Computer Science at the University of Missouri – Kansas City. I am interested in researching Large Language Models and privacy protection.
 |
 
-| <img src="../images/Deming.jpg" alt="Deming"  width="200"/> | | Deming Lei: I am an undergraduate student in the School of Computing and Engineering, University of Missouri – Kansas City. Research interests: Artificial Intelligence Security and Privacy Protection and Computer Vision.
+| <img src="../images/Deming.jpg" alt="Deming"  width="200"/> | | Deming Lei: I am an undergraduate student in the School of Computing and Engineering, University of Missouri – Kansas City. Research interests: Artificial Intelligence Security and Privacy Protection and Computer Vision. -->
 |
 
 

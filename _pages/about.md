@@ -11,7 +11,7 @@ redirect_from:
 
 I am actively looking for PhDs, Masters, and RAs with strong mathematics or computer science background. If you are interested, please contact me by sending an email to zthzheng@zju.edu.cn
 
-News
+<!-- News
 ======
 Our paper (first-authored) "Differentially Private Dataset Condensation" was accepted to NDSS AISCC 2024.
 
@@ -28,7 +28,7 @@ I am grateful for receiving funding support from Division of Diversity and Inclu
 Our paper (first-authored) "RDM-DC: Poisoning Resilient Dataset Condensation with Robust Distribution Matching" was accepted to UAI 2023
 
 
-Our paper (first-authored) "Be Careful with PyPI Packages: You May Unconsciously Spread Backdoor Model Weights" was accepted to MLSys 2023
+Our paper (first-authored) "Be Careful with PyPI Packages: You May Unconsciously Spread Backdoor Model Weights" was accepted to MLSys 2023 -->
 
 Selected Publications
 ======

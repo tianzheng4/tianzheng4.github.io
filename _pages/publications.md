@@ -16,17 +16,27 @@ author_profile: true
 {% endfor %} -->
 
 ---
+Preprints:
+
+
+
+Publications (not a complete list):
+
+Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, Li Lu, Kui Ren, "[Fltracer: Accurate poisoning attack provenance in federated learning](https://ieeexplore.ieee.org/abstract/document/10549523)" In IEEE Transactions on Information Forensics and Security (TIFS, CCF-A)
+
+Tianhang Zheng, Baochun Li, "[CMI: Client-Targeted Membership Inference in Federated Learning](https://ieeexplore.ieee.org/document/10373150)" In IEEE Transactions on Dependable and Secure Computing (TDSC, CCF-A)
+
 Tianhang Zheng, Hao Lan, Baochun Li "[Be Careful with PyPI Packages: You May Unconsciously Spread Backdoor Model Weights](../files/MLSys23.pdf)" In Proceedings of the 6th Conference on Machine Learning and Systems (MLSys 2023) (MLSys 2023)
 
 Tianhang Zheng, Baochun Li, "[InfoCensor: An Information-Theoretic Framework against Sensitive Attribute Inference and Demographic Disparity](../files/AsiaCCS22.pdf)" In ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2022) [GitHub](https://github.com/iQua/InfoCensor)
 
-Tianhang Zheng, Baochun Li "[Poisoning Attacks on Deep Learning based Wireless Traffic Prediction](../files/INFOCOM22.pdf)" In IEEE INFOCOM 2022-IEEE Conference on Computer Communication (INFOCOM 2022)
+Tianhang Zheng, Baochun Li "[Poisoning Attacks on Deep Learning based Wireless Traffic Prediction](../files/INFOCOM22.pdf)" In IEEE INFOCOM 2022-IEEE Conference on Computer Communication (INFOCOM 2022, CCF-A)
 
-Yi Zhu, Chenglin Miao, Tianhang Zheng, Foad Hajiaghajani, Lu Su, Chunming Qiao "[Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving?](../files/CCS21.pdf)" In ACM Conference on Computer and Communications Security, 2021 (CCS 2021) 
+Yi Zhu, Chenglin Miao, Tianhang Zheng, Foad Hajiaghajani, Lu Su, Chunming Qiao "[Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving?](../files/CCS21.pdf)" In ACM Conference on Computer and Communications Security, 2021 (CCS 2021, CCF-A) 
 
 Hengtong Zhang, Tianhang Zheng,  Jing Gao, Yaliang Li, Lu Su and Bo Li "[Profanity-Avoiding Training Framework for Seq2seq Models with Certified Robustness](../files/EMNLP21.pdf)" In Empirical Methods in Natural Language Processing, 2021 (EMNLP21)
 
-Tianhang Zheng, Baochun Li "[First-Order Efficient General-Purpose Clean-Label Data Poisoning](../files/INFOCOM21.pdf)" In IEEE INFOCOM 2021-IEEE Conference on Computer Communication (INFOCOM 2021)
+Tianhang Zheng, Baochun Li "[First-Order Efficient General-Purpose Clean-Label Data Poisoning](../files/INFOCOM21.pdf)" In IEEE INFOCOM 2021-IEEE Conference on Computer Communication (INFOCOM 2021, CCF-A)
 
 Zhongjie Ba, Tianhang Zheng (co-first author), Xinyu Zhang, Zhan Qin, Baochun Li, Xue Liu, Kui Ren "[Learning-based Practical Smartphone Eavesdropping with Built-in Accelerometer](../files/NDSS20.pdf)" In Proceedings of the 26th Annual Network and Distributed System Security Symposium (NDSS 2020) (equal contribution)
 
