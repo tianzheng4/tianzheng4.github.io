@@ -25,7 +25,7 @@ td, th {
 
 <!-- [Rakib Ul Haque](https://scholar.google.com/citations?user=Le-WWW0AAAAJ&hl=en) received his M.S. degree from University of Chinese Academy of Sciences. He will join SecMLSys as a Ph.D. student. in Spring 2024. He has published several papers on the topic of security and privacy. -->
 
-**PhD Students**: 
+<!-- **PhD Students**: 
 
 Several PhD students starting from Fall 2024
 
@@ -52,7 +52,7 @@ Several PhD students starting from Fall 2024
 | <img src="../images/Cat.jpg" alt="Cat"  width="200"/> | | Cat Lewin: I am an undergraduate student pursuing a Bachelor of Science in Computer Science at the University of Missouri – Kansas City. I am interested in researching Large Language Models and privacy protection.
 |
 
-| <img src="../images/Deming.jpg" alt="Deming"  width="200"/> | | Deming Lei: I am an undergraduate student in the School of Computing and Engineering, University of Missouri – Kansas City. Research interests: Artificial Intelligence Security and Privacy Protection and Computer Vision. -->
+| <img src="../images/Deming.jpg" alt="Deming"  width="200"/> | | Deming Lei: I am an undergraduate student in the School of Computing and Engineering, University of Missouri – Kansas City. Research interests: Artificial Intelligence Security and Privacy Protection and Computer Vision. --> -->
 |
 
 
