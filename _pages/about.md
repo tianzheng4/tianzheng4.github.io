@@ -25,12 +25,8 @@ I am grateful for receiving funding support from Division of Diversity and Inclu
 
 <!-- I was fortunate to be selected as a [Scialog Fellow](https://rescorp.org/scialog/aut-fellows-and-facilitators)! I am really grateful for the opportunity to work with some outstanding researchers on the topic of AI for Material Discovery. -->
 
-Our paper (first-authored) "RDM-DC: Poisoning Resilient Dataset Condensation with Robust Distribution Matching" was accepted to UAI 2023
 
-
-Our paper (first-authored) "Be Careful with PyPI Packages: You May Unconsciously Spread Backdoor Model Weights" was accepted to MLSys 2023 -->
-
-Selected Publications
+<!-- Selected Publications
 ======
 
 **Privacy Meets Deep Learning**
@@ -61,7 +57,7 @@ Tianhang Zheng, Changyou Chen, and Kui Ren. "[Distributionally adversarial attac
 
 
 
-
+ -->
 
 
 
