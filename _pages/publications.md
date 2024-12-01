@@ -26,7 +26,7 @@ Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, Li Lu
 
 Tianhang Zheng, Baochun Li, "[CMI: Client-Targeted Membership Inference in Federated Learning](https://ieeexplore.ieee.org/document/10373150)" In IEEE Transactions on Dependable and Secure Computing (TDSC, CCF-A)
 
-Tianhang Zheng, Hao Lan, Baochun Li "[Be Careful with PyPI Packages: You May Unconsciously Spread Backdoor Model Weights](../files/MLSys23.pdf)" In Proceedings of the 6th Conference on Machine Learning and Systems (MLSys 2023) (MLSys 2023)
+Tianhang Zheng, Hao Lan, Baochun Li "[Be Careful with PyPI Packages: You May Unconsciously Spread Backdoor Model Weights](../files/MLSys23.pdf)" In Proceedings of the 6th Conference on Machine Learning and Systems (MLSys 2023)
 
 Tianhang Zheng, Baochun Li, "[InfoCensor: An Information-Theoretic Framework against Sensitive Attribute Inference and Demographic Disparity](../files/AsiaCCS22.pdf)" In ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2022) [GitHub](https://github.com/iQua/InfoCensor)
 
