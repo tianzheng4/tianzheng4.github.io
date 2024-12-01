@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-浙江大学百人研究员/博导，曾任密苏里大学堪萨斯分校助理教授，博士毕业于加拿大多伦多大学，入选国家级青年人才项目
+浙江大学百人研究员/博导，曾任密苏里大学堪萨斯分校助理教授，博士毕业于加拿大多伦多大学
 
 I am actively looking for PhDs, Masters, and RAs with strong mathematics or computer science background. If you are interested, please contact me by sending an email to zthzheng@zju.edu.cn
 
