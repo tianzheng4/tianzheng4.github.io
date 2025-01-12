@@ -13,6 +13,12 @@ I am actively looking for PhDs, Masters, and RAs with strong mathematics or comp
 
 If you are an undergraduate interested in AI security, please also feel free to contact me.
 
+学术服务：
+
+ICML 2025 Area Chair
+
+NeurIPS 2024 Area Chair
+
 <!-- News
 ======
 Our paper (first-authored) "Differentially Private Dataset Condensation" was accepted to NDSS AISCC 2024.
