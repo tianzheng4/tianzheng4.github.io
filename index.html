@@ -7,26 +7,31 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- 动画背景效果 -->
+    <div class="animated-bg">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
     <header>
         <div class="container">
-            <h1>Tianhang Zheng</h1>
+            <h1 class="title-animate">Tianhang Zheng</h1>
+            <div class="title-underline"></div>
             <nav>
                 <ul>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#publications">Publications</a></li>
-                    <li><a href="#service">Service</a></li> <!-- 新增的 Service 链接 -->
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#about" class="nav-link">About</a></li>
+                    <li><a href="#publications" class="nav-link">Publications</a></li>
+                    <li><a href="#service" class="nav-link">Service</a></li>
+                    <li><a href="#contact" class="nav-link">Contact</a></li>
                 </ul>
             </nav>
         </div>
     </header>
     <section id="about" class="container">
         <h2>About Me</h2>
-        <p>浙江大学百人研究员/博导，国家级青年人才，曾任密苏里大学堪萨斯分校助理教授，博士毕业于加拿大多伦多大学</p>
+        <p>浙江大学百人研究员/博导，国家级青年人才，曾任密苏里大学堪萨斯分校助理教授，博士毕业于加拿大多伦多大学。研究方向包括机器学习安全、联邦学习、隐私保护等。</p>
 
-        <p>I am actively looking for PhDs, Masters, and RAs with strong mathematics or computer science background. If you are interested, please contact me by sending an email to zthzheng@zju.edu.cn
-            
-            If you are an undergraduate interested in AI security, please also feel free to contact me.</p>
+        <p><strong>招生信息：</strong>我正在积极招聘博士、硕士以及研究助理，欢迎具有扎实数学或计算机科学背景的同学联系我。本科生如对 AI 安全感兴趣，也欢迎随时沟通。</p>
         
     </section>
 
@@ -38,6 +43,11 @@
     <section id="publications" class="container">
         <h2>Publications (not a complete list):</h2>
         <ul class="publications-list">
+            <li>
+                <strong>Weiwei Qi, Shuo Shao, Wei Gu, Tianhang Zheng (Corresponding Author), Puning Zhao, Zhan Qin, Kui Ren</strong>,
+                "MAJIC: Markovian Adaptive Jailbreaking via Iterative Composition of Diverse Innovative Strategies",
+                Accepted to AAAI 2026
+            </li>
             <li>
                 <strong>Xinzhe Huang, Kedong Xiu, Tianhang Zheng (Corresponding Author), Churui Zeng, Wangze Ni, Zhan Qin, Kui Ren, Chun Chen</strong>,
                 "DualBreach: Efficient Dual-Jailbreaking via Target-Driven Initialization and Multi-Target Optimization",
@@ -133,8 +143,8 @@
     </section>
     <section id="contact" class="container">
         <h2>Contact</h2>
-        <p>Email: zthzheng@zju.edu.cn</p>
-        <p>Address: 浙江大学科创水博园 B06 405</p>
+        <p><strong>📧 Email:</strong> zthzheng@zju.edu.cn</p>
+        <p><strong>📍 Address:</strong> 浙江大学科创水博园 B06 405</p>
     </section>
 
     <footer>
