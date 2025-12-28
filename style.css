@@ -81,8 +81,8 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.8;
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    color: #2c3e50;
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 50%, #90caf9 100%);
+    color: #333;
     min-height: 100vh;
     position: relative;
     overflow-x: hidden;
@@ -102,7 +102,7 @@ body {
 .blob {
     position: absolute;
     border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
-    background: rgba(102, 126, 234, 0.05);
+    background: rgba(255, 255, 255, 0.08);
     filter: blur(40px);
     animation-duration: 7s;
     animation-iteration-count: infinite;
@@ -114,6 +114,7 @@ body {
     height: 200px;
     top: 10%;
     left: 10%;
+    background: rgba(255, 255, 255, 0.1);
     animation-name: blob-animation-1;
 }
 
@@ -122,7 +123,7 @@ body {
     height: 300px;
     top: 50%;
     right: 5%;
-    background: rgba(118, 75, 162, 0.05);
+    background: rgba(0, 255, 200, 0.08);
     animation-name: blob-animation-2;
     animation-duration: 8s;
 }
@@ -132,7 +133,7 @@ body {
     height: 250px;
     bottom: 10%;
     left: 50%;
-    background: rgba(102, 126, 234, 0.03);
+    background: rgba(100, 200, 255, 0.06);
     animation-name: blob-animation-3;
     animation-duration: 9s;
 }
@@ -145,11 +146,11 @@ body {
 }
 
 header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #003a70 0%, #0055a4 100%);
     color: #fff;
-    padding: 40px 0 30px;
+    padding: 30px 0 30px;
     text-align: center;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
     position: relative;
     overflow: hidden;
 }
@@ -165,14 +166,31 @@ header::before {
     animation: slideInRight 1.5s ease-out;
 }
 
+.zju-logo {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto 15px;
+    animation: fadeInUp 0.8s ease-out;
+    display: inline-block;
+}
+
 header h1 {
     margin: 0;
     font-size: 2.5em;
     font-weight: 700;
     letter-spacing: 0.5px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     position: relative;
     animation: fadeInUp 1s ease-out;
+    color: #fff;
+}
+
+.subtitle {
+    font-size: 1em;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 15px;
+    animation: fadeInUp 1.1s ease-out;
+    font-weight: 500;
 }
 
 .title-animate {
@@ -287,8 +305,8 @@ section:hover {
 }
 
 section h2 {
-    color: #667eea;
-    border-bottom: 3px solid #667eea;
+    color: #003a70;
+    border-bottom: 3px solid #0055a4;
     padding-bottom: 15px;
     margin-bottom: 25px;
     font-size: 1.8em;
@@ -348,16 +366,16 @@ section p {
 }
 
 #publications strong {
-    color: #667eea;
+    color: #003a70;
     transition: color 0.3s ease;
 }
 
 #publications li:hover strong {
-    color: #764ba2;
+    color: #0055a4;
 }
 
 #publications a {
-    color: #667eea;
+    color: #0055a4;
     text-decoration: none;
     font-weight: 600;
     transition: all 0.3s ease;
@@ -371,7 +389,7 @@ section p {
     left: 0;
     width: 0;
     height: 2px;
-    background: #764ba2;
+    background: #003a70;
     transition: width 0.3s ease;
 }
 
@@ -380,18 +398,18 @@ section p {
 }
 
 #publications a:hover {
-    color: #764ba2;
+    color: #003a70;
 }
 
 #contact {
     margin-bottom: 100px;
-    background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%);
+    background: linear-gradient(135deg, rgba(0, 58, 112, 0.08) 0%, rgba(0, 85, 164, 0.08) 100%);
 }
 
 #contact p {
     font-size: 1.1em;
     margin: 12px 0;
-    color: #555;
+    color: #333;
     animation: fadeInUp 0.8s ease-out backwards;
 }
 
@@ -399,19 +417,19 @@ section p {
 #contact p:nth-of-type(2) { animation-delay: 0.4s; }
 
 #contact p strong {
-    color: #667eea;
+    color: #003a70;
     font-weight: 600;
 }
 
 footer {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #003a70 0%, #0055a4 100%);
     color: #fff;
     text-align: center;
     padding: 20px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
-    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.2);
     animation: fadeInUp 0.8s ease-out 0.5s backwards;
 }
 
